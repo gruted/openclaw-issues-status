@@ -1,0 +1,24 @@
+[
+  {
+    "number": 12,
+    "title": "Fix stripe webhook handling for checkout.session.completed",
+    "author": "contrib1",
+    "assignees": ["alice"],
+    "labels": ["bug", "stripe"],
+    "createdAt": "2026-01-15T10:23:45Z",
+    "updatedAt": "2026-02-18T08:12:00Z",
+    "state": "open",
+    "url": "https://github.com/gruted/devops-ops-bot/issues/12"
+  },
+  {
+    "number": 21,
+    "title": "Add example for local dev with stripe mock server",
+    "author": "dev2",
+    "assignees": [],
+    "labels": ["enhancement", "docs"],
+    "createdAt": "2026-02-01T14:00:00Z",
+    "updatedAt": "2026-02-20T09:30:00Z",
+    "state": "open",
+    "url": "https://github.com/gruted/devops-ops-bot/issues/21"
+  }
+]
